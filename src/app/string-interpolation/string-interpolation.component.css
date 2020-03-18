@@ -1,0 +1,15 @@
+.mycard {
+    margin: 30px;
+}
+
+.topo {
+    color: black;
+    padding: 1ex;
+    height: 50px;
+}
+
+.card {
+    padding: 2ex;
+    padding: 2rem;
+    background-color: rgba(155, 212, 226, 0);
+}

@@ -1,0 +1,8 @@
+.toolbar {
+    color: black;
+    background-color: rgba(57, 206, 233, 0.856);
+    height: 40px;
+    width: 100%;
+    padding-top: 1em;
+    font-size: 25px;
+}
